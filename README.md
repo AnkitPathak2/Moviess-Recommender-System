@@ -105,24 +105,6 @@ Recommendation Engine
 Streamlit Web Application
 ```
 
----
-
-## 📸 Application Preview
-
-Add screenshots here:
-
-### Home Page
-
-![Home Page](Screenshots/home.png)
-
-### Recommendations
-
-![Recommendations](Screenshots/recommendations.png)
-
-### Login System
-
-![Login](Screenshots/login.png)
-
 ## 💡 Skills Demonstrated
 
 - Machine Learning
