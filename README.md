@@ -105,6 +105,10 @@ Recommendation Engine
 Streamlit Web Application
 ```
 
+## 🎥 Project Demo
+
+[Demo Video](Demo/2024-08-31%2017-08-10.mkv)
+
 ## 💡 Skills Demonstrated
 
 - Machine Learning
