@@ -107,7 +107,7 @@ Streamlit Web Application
 
 ## 🎥 Project Demo
 
-[Demo Video](Demo/movie_recommendation_demo.mkv)
+[Demo Video](movie_recommendation_demo.mkv)
 
 ## 💡 Skills Demonstrated
 
